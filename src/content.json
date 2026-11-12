@@ -200,7 +200,7 @@
     [
      "怎么换界面语言、朗读语言、简体繁体？",
      [
-      "在「我的 > 设置」里可以选界面语言、朗读语言（英文、普通话、粤语），界面是中文时还可以选简体或繁体。"
+      "在「我的 > 设置」里：界面语言可以选简体中文、繁體中文或 English，题目和答案的中文跟着界面用简体或繁体；界面选 English 时，还可以另外选中文用简体还是繁体。朗读语言可以选英文、普通话或粤语。"
      ]
     ],
     [
@@ -265,7 +265,7 @@
     [
      "How do I change the app language, read-aloud language or Chinese script?",
      [
-      "In Me > Settings, choose the app language and the read-aloud language (English, Mandarin or Cantonese). When the app is in Chinese, you can also choose Simplified or Traditional characters."
+      "In Me > Settings: the app language can be Simplified Chinese, Traditional Chinese or English, and Chinese in questions and answers follows that choice. With the app in English, you can separately choose Simplified or Traditional for the Chinese. The read-aloud language can be English, Mandarin or Cantonese."
      ]
     ],
     [
